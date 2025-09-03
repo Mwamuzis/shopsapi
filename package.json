@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "mysql2": "^3.1.0"
+  },
+  "name": "api",
+  "description": "",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NORZACO/api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NORZACO/api/issues"
+  },
+  "homepage": "https://github.com/NORZACO/api#readme"
+}
